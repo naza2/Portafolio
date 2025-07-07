@@ -10,11 +10,16 @@ El proyecto está compuesto por los siguientes archivos:
 - login.js
 
 ### Secciones del Portafolio
-- **Acerca de Mí**: Una breve descripción sobre mí y mis habilidades.
-- **Currículum**: 
-- **Servicios**:
-- **Portafolio**: Una galería de mis proyectos con descripciones y enlaces.
-- **Contacto**: Un formulario para que los visitantes puedan ponerse en contacto conmigo.
+- **Acerca de Mí**
+
+- **Currículum**
+
+- **Servicios**
+
+- **Portafolio**
+
+- **Contacto**:
+
 
 
 ### Capturas de Pantalla
