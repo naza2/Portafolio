@@ -27,3 +27,4 @@ El proyecto está compuesto por los siguientes archivos:
 - **Contacto**:
 ![Captura de Pantalla del Portafolio](https://github.com/naza2/Portafolio/blob/ead3313eb59e77c9b99531c7087c157f506bb7ad/Captura%20de%20pantalla%202025-07-07%20085807.png)
 ### GitHub Pages
+https://naza2.github.io/Portafolio/
