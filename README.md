@@ -6,8 +6,8 @@ Este proyecto es un portafolio personal que muestra mis habilidades y proyectos 
 ## Estructura del Proyecto
 El proyecto está compuesto por los siguientes archivos:
 - index.html
-- login.css
-- login.js
+- styles.css
+- script.js
 
 ### Secciones del Portafolio
 - **Home**
